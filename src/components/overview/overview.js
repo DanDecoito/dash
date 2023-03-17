@@ -11,7 +11,7 @@ export default function Overview(props) {
             {/* Top Row */}
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-4 gap-y-5 mt-2">
                 {/* Div1 T1 */}
-                <div className="h-32 mx-4 rounded-md                    
+                <div className="h-32 mx-4 rounded-md shadow-xl                 
                     bg-Pale-card-bg 
                     dark:bg-Blue-card-bg
                     hover:bg-gray-200 dark:hover:bg-cyan-900  ">
@@ -34,7 +34,7 @@ export default function Overview(props) {
                 </div>
 
                 {/* Div T2 */}
-                <div className="h-32 mx-4 rounded-md                    
+                <div className="h-32 mx-4 rounded-md shadow-xl                  
                     bg-Pale-card-bg 
                     dark:bg-Blue-card-bg
                     hover:bg-gray-200 dark:hover:bg-cyan-900  ">
@@ -57,7 +57,7 @@ export default function Overview(props) {
                 </div>
 
                 {/* Div T3 */}
-                <div className="h-32 mx-4 rounded-md                    
+                <div className="h-32 mx-4 rounded-md shadow-xl                 
                     bg-Pale-card-bg 
                     dark:bg-Blue-card-bg
                     hover:bg-gray-200 dark:hover:bg-cyan-900  ">
@@ -80,7 +80,7 @@ export default function Overview(props) {
                 </div>
                 
                 {/* Div T4 */}
-                <div className="h-32 mx-4 rounded-md                    
+                <div className="h-32 mx-4 rounded-md shadow-xl                
                     bg-Pale-card-bg 
                     dark:bg-Blue-card-bg
                     hover:bg-gray-200 dark:hover:bg-cyan-900  ">
@@ -107,7 +107,7 @@ export default function Overview(props) {
             {/* Bottom row */}
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-4 gap-y-5 mt-6 my-6">
                 {/* Div B1 */}
-                <div className="h-32 mx-4 rounded-md                    
+                <div className="h-32 mx-4 rounded-md shadow-xl                
                     bg-Pale-card-bg 
                     dark:bg-Blue-card-bg 
                     hover:bg-gray-200 dark:hover:bg-cyan-900 ">
@@ -130,7 +130,7 @@ export default function Overview(props) {
                 </div>
                 
                  {/* DivB22 */}
-                 <div className="h-32 mx-4 rounded-md                    
+                 <div className="h-32 mx-4 rounded-md shadow-xl                 
                     bg-Pale-card-bg 
                     dark:bg-Blue-card-bg 
                     hover:bg-gray-200 dark:hover:bg-cyan-900 ">
@@ -153,7 +153,7 @@ export default function Overview(props) {
                 </div>
 
                 {/* Div B3 */}
-                <div className="h-32 mx-4 rounded-md                    
+                <div className="h-32 mx-4 rounded-md shadow-xl            
                     bg-Pale-card-bg 
                     dark:bg-Blue-card-bg 
                     hover:bg-gray-200 dark:hover:bg-cyan-900 ">
@@ -176,7 +176,7 @@ export default function Overview(props) {
                 </div>
 
                 {/* Div B4 */}
-                <div className="h-32 mx-4 rounded-md                    
+                <div className="h-32 mx-4 rounded-md shadow-xl               
                     bg-Pale-card-bg 
                     dark:bg-Blue-card-bg 
                     hover:bg-gray-200 dark:hover:bg-cyan-900 ">

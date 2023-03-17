@@ -7,7 +7,7 @@ export default function MainDash(props) {
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-y-5  mt-12 mx-2">
 
                 {/* Div1 */}
-                <div className="mx-4  h-60 flex flex-col items-center border-blue-500 border-t-4 rounded-md
+                <div className="mx-4  h-60 flex flex-col items-center border-blue-500 border-t-4 rounded-md shadow-xl
                     bg-Pale-card-bg 
                     dark:bg-Blue-card-bg dark:text-Ken 
                     hover:bg-gray-200 dark:hover:bg-cyan-900 ">
@@ -34,7 +34,7 @@ export default function MainDash(props) {
                 </div>
 
                 {/* Div2 */}
-                <div className="mx-4 w-10-12 h-60 flex flex-col items-center border-blue-300 border-t-4 rounded-md
+                <div className="mx-4 w-10-12 h-60 flex flex-col items-center border-blue-300 border-t-4 rounded-md shadow-xl
                     bg-Pale-card-bg 
                     dark:bg-Blue-card-bg dark:text-Ken 
                     hover:bg-gray-200 dark:hover:bg-cyan-900 ">
@@ -61,7 +61,7 @@ export default function MainDash(props) {
                 </div>
 
                 {/* Div3 */}
-                <div className="mx-4 w-10-12 h-60 flex flex-col items-center instaBorder border-t-4 rounded-md
+                <div className="mx-4 w-10-12 h-60 flex flex-col items-center instaBorder border-t-4 rounded-md shadow-xl
                     bg-Pale-card-bg 
                     dark:bg-Blue-card-bg dark:text-Ken 
                     hover:bg-gray-200 dark:hover:bg-cyan-900 ">
@@ -88,7 +88,7 @@ export default function MainDash(props) {
                 </div>
 
                 {/* Div4 */}
-                <div className="mx-4 w-10-12 h-60 flex flex-col items-center border-red-700 border-t-4 rounded-md 
+                <div className="mx-4 w-10-12 h-60 flex flex-col items-center border-red-700 border-t-4 rounded-md shadow-xl
                     bg-Pale-card-bg 
                     dark:bg-Blue-card-bg dark:text-Ken 
                     hover:bg-gray-200 dark:hover:bg-cyan-900 ">
