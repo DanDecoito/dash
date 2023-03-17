@@ -13,7 +13,8 @@ export default function Overview(props) {
                 {/* Div1 T1 */}
                 <div className="h-32 mx-4 rounded-md                    
                     bg-Pale-card-bg 
-                    dark:bg-Blue-card-bg  ">
+                    dark:bg-Blue-card-bg
+                    hover:bg-gray-200 dark:hover:bg-cyan-900  ">
                     {/* pageviews and image */}
                     <div className="flex justify-between items-center mt-6 mx-8">
                         <p className="font-Inter font-bold text-Dark-text
@@ -35,7 +36,8 @@ export default function Overview(props) {
                 {/* Div T2 */}
                 <div className="h-32 mx-4 rounded-md                    
                     bg-Pale-card-bg 
-                    dark:bg-Blue-card-bg  ">
+                    dark:bg-Blue-card-bg
+                    hover:bg-gray-200 dark:hover:bg-cyan-900  ">
                     {/* pageviews and image */}
                     <div className="flex justify-between items-center mt-6 mx-8">
                         <p className="font-Inter font-bold text-Dark-text
@@ -57,7 +59,8 @@ export default function Overview(props) {
                 {/* Div T3 */}
                 <div className="h-32 mx-4 rounded-md                    
                     bg-Pale-card-bg 
-                    dark:bg-Blue-card-bg  ">
+                    dark:bg-Blue-card-bg
+                    hover:bg-gray-200 dark:hover:bg-cyan-900  ">
                     {/* pageviews and image */}
                     <div className="flex justify-between items-center mt-6 mx-8">
                         <p className="font-Inter font-bold text-Dark-text
@@ -79,7 +82,8 @@ export default function Overview(props) {
                 {/* Div T4 */}
                 <div className="h-32 mx-4 rounded-md                    
                     bg-Pale-card-bg 
-                    dark:bg-Blue-card-bg  ">
+                    dark:bg-Blue-card-bg
+                    hover:bg-gray-200 dark:hover:bg-cyan-900  ">
                     {/* pageviews and image */}
                     <div className="flex justify-between items-center mt-6 mx-8">
                         <p className="font-Inter font-bold text-Dark-text
@@ -105,7 +109,8 @@ export default function Overview(props) {
                 {/* Div B1 */}
                 <div className="h-32 mx-4 rounded-md                    
                     bg-Pale-card-bg 
-                    dark:bg-Blue-card-bg  ">
+                    dark:bg-Blue-card-bg 
+                    hover:bg-gray-200 dark:hover:bg-cyan-900 ">
                     {/* pageviews and image */}
                     <div className="flex justify-between items-center mt-6 mx-8">
                         <p className="font-Inter font-bold text-Dark-text
@@ -127,7 +132,8 @@ export default function Overview(props) {
                  {/* DivB22 */}
                  <div className="h-32 mx-4 rounded-md                    
                     bg-Pale-card-bg 
-                    dark:bg-Blue-card-bg  ">
+                    dark:bg-Blue-card-bg 
+                    hover:bg-gray-200 dark:hover:bg-cyan-900 ">
                     {/* pageviews and image */}
                     <div className="flex justify-between items-center mt-6 mx-8">
                         <p className="font-Inter font-bold text-Dark-text
@@ -149,7 +155,8 @@ export default function Overview(props) {
                 {/* Div B3 */}
                 <div className="h-32 mx-4 rounded-md                    
                     bg-Pale-card-bg 
-                    dark:bg-Blue-card-bg  ">
+                    dark:bg-Blue-card-bg 
+                    hover:bg-gray-200 dark:hover:bg-cyan-900 ">
                     {/* pageviews and image */}
                     <div className="flex justify-between items-center mt-6 mx-8">
                         <p className="font-Inter font-bold text-Dark-text
@@ -171,7 +178,8 @@ export default function Overview(props) {
                 {/* Div B4 */}
                 <div className="h-32 mx-4 rounded-md                    
                     bg-Pale-card-bg 
-                    dark:bg-Blue-card-bg  ">
+                    dark:bg-Blue-card-bg 
+                    hover:bg-gray-200 dark:hover:bg-cyan-900 ">
                     {/* pageviews and image */}
                     <div className="flex justify-between items-center mt-6 mx-8">
                         <p className="font-Inter font-bold text-Dark-text

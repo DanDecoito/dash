@@ -13,7 +13,7 @@ export default function DashHeader(props) {
                 font-Inter
                 bg-Ken
                 dark:bg-very-dark-blue
-                lg:justify">
+                sm:flex sm:justify-between">
                 <div>
                     <p className="text-xl font-bold
                         text-Black-text
@@ -27,7 +27,7 @@ export default function DashHeader(props) {
                          dark:text-Blue-text ">Total Followers: {props.totalFollowers}</p>
                 </div>
 
-                <div className="h-px bg-Dark-text my-4 lg:hidden"></div>
+                <div className="h-px bg-Dark-text my-4 sm:hidden"></div>
 
                 <div className="flex justify-between ">
                     <p className="

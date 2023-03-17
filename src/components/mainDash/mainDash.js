@@ -4,13 +4,13 @@ export default function MainDash(props) {
 
     return (
         <>
-            <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-4 gap-y-5  mt-12 mx-2">
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-y-5  mt-12 mx-2">
 
                 {/* Div1 */}
                 <div className="mx-4  h-60 flex flex-col items-center border-blue-500 border-t-4 rounded-md
                     bg-Pale-card-bg 
                     dark:bg-Blue-card-bg dark:text-Ken 
-                    hover:bg-gray-200 dark:hover:bg-indigo-900 ">
+                    hover:bg-gray-200 dark:hover:bg-cyan-900 ">
                     {/* Image and name display */}
                     <div className="flex items-center mt-8">
                         <div>{props.icon1}</div>
@@ -37,7 +37,7 @@ export default function MainDash(props) {
                 <div className="mx-4 w-10-12 h-60 flex flex-col items-center border-blue-300 border-t-4 rounded-md
                     bg-Pale-card-bg 
                     dark:bg-Blue-card-bg dark:text-Ken 
-                    hover:bg-gray-200 dark:hover:bg-indigo-900 ">
+                    hover:bg-gray-200 dark:hover:bg-cyan-900 ">
                     {/* Image and name display */}
                     <div className="flex items-center mt-8">
                         <div>{props.icon2}</div>
@@ -64,7 +64,7 @@ export default function MainDash(props) {
                 <div className="mx-4 w-10-12 h-60 flex flex-col items-center instaBorder border-t-4 rounded-md
                     bg-Pale-card-bg 
                     dark:bg-Blue-card-bg dark:text-Ken 
-                    hover:bg-gray-200 dark:hover:bg-indigo-900 ">
+                    hover:bg-gray-200 dark:hover:bg-cyan-900 ">
                     {/* Image and name display */}
                     <div className="flex items-center mt-8">
                         <div>{props.icon3}</div>
@@ -91,7 +91,7 @@ export default function MainDash(props) {
                 <div className="mx-4 w-10-12 h-60 flex flex-col items-center border-red-700 border-t-4 rounded-md 
                     bg-Pale-card-bg 
                     dark:bg-Blue-card-bg dark:text-Ken 
-                    hover:bg-gray-200 dark:hover:bg-indigo-900 ">
+                    hover:bg-gray-200 dark:hover:bg-cyan-900 ">
                     {/* Image and name display */}
                     <div className="flex items-center mt-8">
                         <div>{props.icon4}</div>
